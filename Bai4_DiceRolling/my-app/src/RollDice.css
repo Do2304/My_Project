@@ -1,0 +1,26 @@
+
+body{
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-flow: column nowrap;
+    height: 100vh;
+    justify-content: center;
+     align-items: center;
+}
+.container-Die{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+button{
+    width: 80px;
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.handleBtn{
+    background-color: aquamarine;
+}
