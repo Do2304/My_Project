@@ -1,0 +1,216 @@
+/* body {
+  background: #f3f3f3;
+  text-align: center;
+}
+.App {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  padding: 10px 20px;
+  transition: transform 0.2s;
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: x-large;
+  text-align: center;
+  color: #327c35;
+}
+
+fieldset {
+  border: none;
+}
+
+input {
+  display: block;
+  width: 100%;
+ 
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 12px;
+}
+input[type="radio"],
+input[type="checkbox"] {
+  display: inline;
+  width: 10%;
+}
+select {
+  display: block;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+label {
+  font-size: 15px;
+  display: block;
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  text-align: left;
+  color: #555;
+  font-weight: bold;
+}
+
+button {
+  padding: 15px;
+  border-radius: 10px;
+  margin: 15px;
+  border: none;
+  color: white;
+  cursor: pointer;
+  background-color: #4caf50;
+  width: 40%;
+  font-size: 16px;
+}
+textarea {
+  resize: none;
+  width: 98%;
+  min-height: 100px;
+  max-height: 150px;
+} */
+
+
+
+/* body{
+  background-color: #f3f3f3;
+  text-align: center;
+}
+.App{
+  background-color: #fff; 
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  padding: 10px 20px;
+   transition: transform 0.2s; 
+  width: 500px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+h1{
+  font-size: x-large;
+  text-align: center;
+  color: #327c35
+}
+fieldset{
+  border: none;
+}
+input{
+  display: block;
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+   font-size: 12px; 
+}
+label{
+  display: block;
+  width: 100%;
+  font-size: 15px;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  text-align: left;
+  color:#555;
+  font-weight: bold;
+}
+select{
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+textarea{
+  resize: none;
+  width: 98%;
+  min-height: 100px;
+  max-height: 150px;
+}
+button{
+  padding: 15px;
+  border-radius: 10px;
+  width: 40%;
+  margin: 15px;
+  border: none;
+  background-color: #327c35;
+  font-size: 16px;
+  cursor: pointer;
+  color: white;
+} */
+
+
+body{
+  text-align: center;
+  background: #f3f3f3;
+}
+.App{
+  width: 500px;
+  background-color: #fff;
+  padding: 10px 20px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+fieldset{
+  border: none;
+}
+label{
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 8px;
+  margin-bottom: 5px;
+}
+input{
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  padding: 5px 5px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+input[type="radio"],
+input[type="checkbox"] {
+    display: inline;
+    width: 10%;
+}
+
+select{
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+textarea{
+  resize: none;
+  width: 98%;
+  border: 1px solid #ddd;
+  min-height: 100px;
+  border-radius: 5px;
+}
+button{
+  padding: 10px;
+  margin-top: 10px;
+  width: 40%;
+  margin: 10px;
+  border: 1px solid #ddd;
+  color: white;
+  background-color: green;
+  border-radius: 15px;
+}
