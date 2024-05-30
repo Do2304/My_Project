@@ -1,0 +1,39 @@
+body{
+    box-sizing: border-box;
+    background-color: pink;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+    background-color: rgb(233, 131, 148);
+    padding: 10px;
+    border-radius: 8px;
+}
+.Btn{
+    display: inline;
+}
+button{
+    font-size: 30px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(229, 157, 169);
+}
+button:active{
+    background-color: rgb(227, 103, 124);
+}
+.Content{
+    font-size: 18px; 
+    font-weight: bold; 
+    text-align: center; 
+    text-shadow: 1px 1px 2px #000; 
+    letter-spacing: 1px; 
+}
