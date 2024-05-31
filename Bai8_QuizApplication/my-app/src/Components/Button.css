@@ -1,0 +1,13 @@
+.Btn{
+    background-color: pink;
+    margin-top: 10px;
+    border: 1px solid rgb(225, 99, 120);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Btn:hover{
+    background-color: rgb(225, 88, 111);
+}
+.Btn:active{
+    background-color: rgb(191, 35, 35);
+}
